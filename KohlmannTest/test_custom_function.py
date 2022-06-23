@@ -4,7 +4,7 @@ from iotfunctions.base import BaseTransformer
 from iotfunctions.ui import UIExpression, UIFunctionOutSingle
 import numpy as np
 
-PACKAGE_URL = 'git+https://github.com/pkohlmann/Test_Only.git@'
+PACKAGE_URL = 'git+https://github.com/pkohlmann/Test_Only.git'
 
 class KohlmannTestFunction2(BaseTransformer):
 
