@@ -6,7 +6,7 @@ import numpy as np
 
 PACKAGE_URL = 'git+https://github.com/pkohlmann/Test_Only.git@'
 
-class KohlmannTestFunction(BaseTransformer):
+class KohlmannTestFunction2(BaseTransformer):
 
     def __init__(self, conditional_expression, true_expression, false_expression, output_item=None):
         super().__init__()
